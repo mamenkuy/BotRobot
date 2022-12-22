@@ -107,7 +107,7 @@ buttons = [
     [
         InlineKeyboardButton(text="Help & Commands❔", callback_data="help_back"
          ),
-          InlineKeyboardButton(text="DONASI", "DONASI LEWAT DANA 087861355927"
+         InlineKeyboardButton(text="Donasi", "Donasi lewat dana 087861355927"
 
         ),
 
