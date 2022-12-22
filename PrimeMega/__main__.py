@@ -106,7 +106,7 @@ buttons = [
 
      ],
      [
-         InlineKeyboardButton(text="Donasi", "Donasi lewat dana 087861355927"
+         InlineKeyboardButton(text="Donasi", url=f"https://t.me/jrtnhati/367"
         ),
 
     ],
